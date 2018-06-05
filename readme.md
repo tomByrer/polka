@@ -521,6 +521,9 @@ There are, however, a few main differences. Polka does not support or offer:
     app.get('/users/*', _ => {});
     ```
 
+## Polka in the Wild
+
+[Elliott R on Medium: Intro to Polka](https://medium.com/@elliottross23/now-you-node-1-intro-polka-182107caf6b4)
 
 ## License
 
